@@ -1,0 +1,26 @@
+# Data directory with scraped CSVs
+data/
+
+# Environment variables (contains API keys)
+.env
+
+# Personal email template (use template.example.txt as reference)
+template.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

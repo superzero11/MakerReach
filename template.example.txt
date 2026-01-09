@@ -1,0 +1,13 @@
+Hey {{FirstName}},
+
+Congrats on launching {{ProductName}} on {{LaunchPlatform}}! 🎉
+
+I saw your launch and wanted to reach out. [Add your personalized message here]
+
+[Your value proposition or question]
+
+Would love to connect!
+
+Best,
+[Your Name]
+[Your Website]
